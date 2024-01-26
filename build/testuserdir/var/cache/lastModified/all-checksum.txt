@@ -1,0 +1,9 @@
+C:\Program Files\NetBeans 8.0.2\platform=1696035888460
+cluster.Z:/JEE/SampleCRUDApp/build/cluster=1696085933426
+cluster.C:/Program Files/NetBeans 8.0.2/platform=1696035888460
+user=1696085933426
+crc=7
+locale=en_US
+branding=crud_sample_application
+java.version=1.8.0_191
+java.vm.version=25.191-b12
